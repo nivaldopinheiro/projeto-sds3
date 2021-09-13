@@ -49,4 +49,14 @@ public class Seller {
 	public List<Sale> getSales() {
 		return sales;
 	}
+
+	public Long getid() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getname() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
